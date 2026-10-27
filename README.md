@@ -1,5 +1,5 @@
-# 💫 About Me:
-yo actualmente estudio análisis y desarrollo de software.<br>Me gustaría colaborar con todo lo relacionado en codificación.<br>Me gustaría colaborar ayudando con trabajos empresariales.
+# 💫 Acerca de mi:
+Actualmente estudio análisis y desarrollo de software.<br>Me gustaría colaborar con todo lo relacionado en codificación.<br>Me gustaría colaborar ayudando con trabajos empresariales.
 
 
 # 💻 Tech Stack:
